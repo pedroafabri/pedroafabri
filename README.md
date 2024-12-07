@@ -12,12 +12,14 @@ Oh, and when it's time to unwind, you'll find me gaming or working on my next in
 
 ## Interests
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="40px" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="40px" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" width="40px" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" width="40px" height="40px">
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" width="40px" height="40px">
+</div>
 
 ## Fun Fact
 
