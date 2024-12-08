@@ -12,13 +12,22 @@ Oh, and when it's time to unwind, you'll find me gaming or working on my next in
 
 ## Interests
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-around">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" width="40px" height="40px">
+    <img src="./img/rust.svg" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" width="40px" height="40px">
+    <img src="./img/unreal-engine.svg" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" width="40px" height="40px">
+</div>
+
+## Reach Out!
+
+<div style="display: flex; justify-content: space-around">
+    <a href="https://linkedin.com/in/pedroafabri"><img src="https://s.magecdn.com/social/tc-linkedin.svg" width="40px" height="40px"/></a>
+    <a href="https://instagram.com/pedroafabri"><img src="https://s.magecdn.com/social/tc-instagram.svg" width="40px" height="40px"/></a>
+    <a href="https://x.com/pedroafabri"><img src="https://s.magecdn.com/social/tc-x.svg" width="40px" height="40px"/></a>
+    <a href="mailto:pedroafabri@gmail.com"><img src="https://s.magecdn.com/social/tc-mail.svg" width="40px" height="40px"/></a>
 </div>
 
 ## Fun Fact
@@ -28,6 +37,3 @@ For years, I balanced life as a programmer during the week and a bassist/back vo
 
 <img src="./img/band.jpeg" />
 
-## Reach Out!
-
-//TODO: Add social media links :D
