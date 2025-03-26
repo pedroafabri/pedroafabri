@@ -4,7 +4,7 @@
 
 I'm a fullstack developer with a heavy focus on backend, specializing in TypeScript and Rust and building scalable solutions. 🚀
 
-When I'm not coding APIs or crafting elegant systems, I'm sharing knowledge as a teacher at [Fabricando Devs](https://pay.hotmart.com/A94627852G), an online fullstack JS/TS course I created to empower future developers! 💡
+When I'm not coding APIs or crafting elegant systems, I'm sharing knowledge as a teacher at [Fabri Academy](https://pay.hotmart.com/A94627852G), an online fullstack JS/TS course I created to empower future developers! 💡
 
 Oh, and when it's time to unwind, you'll find me gaming or working on my next indie game dev project. 🎮✨
 
